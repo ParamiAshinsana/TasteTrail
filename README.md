@@ -5,7 +5,6 @@ Tastetrail is a mobile application built using React Native, Expo, TypeScript, a
 ## Pages of Application
 
 1. First Page
-
 ![](assets/screenshots/first-page.jpg)
 
 
