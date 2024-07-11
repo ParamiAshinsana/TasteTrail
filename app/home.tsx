@@ -65,7 +65,7 @@ export default function Home() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#ffffba',
+        backgroundColor: '#ff8b94',
     },
     menu: {
         height: 60,
@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-around',
         alignItems: 'center',
         height: 60,
-        backgroundColor: '#ffffba',
+        backgroundColor: '#ff5c68',
         borderTopWidth: 1,
         borderTopColor: '#ddd',
     },
