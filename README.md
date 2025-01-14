@@ -1,7 +1,6 @@
 # Welcome to Tastetrail App 👋
 
 Tastetrail is a mobile application built using React Native, Expo, TypeScript, and JavaScript. This app allows users to conveniently order food online, offering a seamless and intuitive experience. Whether you're craving your favorite dish or exploring new cuisines, Tastetrail brings a world of flavors right to your fingertips
-
 ## Pages of Application
 
 1. First Page
